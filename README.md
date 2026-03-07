@@ -21,7 +21,7 @@ Python • SQL • Pandas • NumPy
 Tableau • Power BI • Grafana
 Excel • Git • Jira • Confluence
 
-## 📊 Projects
+## 📊 Top Projects
 
 • Machine Learning Model – Kaggle Top 12% ranking
 • Credit Default Risk Prediction (LightGBM)
@@ -32,5 +32,3 @@ Excel • Git • Jira • Confluence
 Data analytics and machine learning through an intensive Data Analytics Bootcamp.
 
 ---
-
-I believe data tells a story — my goal is to uncover it and turn it into insight.

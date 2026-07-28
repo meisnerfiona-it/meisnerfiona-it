@@ -1,6 +1,6 @@
 # Hi, I'm Fiona 👋
 
-Data Analyst | Data Science Enthusiast | Cloud & Operational Data
+Data Analyst | Cloud & Operational Data
 
 I am passionate about using data to uncover patterns, explain complex systems, and support better decision-making.
 
